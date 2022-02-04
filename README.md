@@ -12,3 +12,8 @@ install dependencies:
 ```
 npm run dev-server
 ```
+
+### Refer source:
+```
+https://medium.com/touch4it/end-to-end-testing-with-puppeteer-and-jest-ec8198145321
+```
